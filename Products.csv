@@ -1,0 +1,12 @@
+Product ,Description,Brand,Color,Size,Weight,Material,Unit price,Category,Is available
+Yoga mat,"A non-slip, cushioned mat ideal for yoga and stretching exercises.",Toto,Blue,180x60x0.6 cm,1.1,PVC,"25,00",Fitness Gear,Yes
+Water bottle small,"A reusable, BPA-free bottle with a flip-top lid for hydration.",ZEZ Sport,Transparent,750 ml,0.23,BPA-Free Plastic,"12,00",Accessories,Yes
+Resistance band light,Light resistance loop band for strength training and rehabilitation.,PowerFlex,Green,25x5 cm,0.09,Latex,"10,00",Resistance,Yes
+Resistance band heavy,High resistance band for advanced strength and muscle toning exercises.,PowerFlex,Red,25x5 cm,0.115,Latex,"12,00",Resistance,Yes
+Jumping rope,Adjustable jump rope with ergonomic handles for cardio workouts.,CardioMax,Black,3 m,0.36,Steel + PVC Coating,"15,00",Ropes,Yes
+Skipping rope,Lightweight skipping rope designed for speed and endurance training.,CardioMax,Red,3 m,0.28,Nylon + Plastic,"10,00",Ropes,Yes
+Fitness Ball,Anti-burst stability ball for core strength and balance training.,Toto,Silver,65 cm diameter,1.1,PVC,"20,00",Fitness Gear,No
+Medicine Ball,Weighted ball for strength and functional training exercises.,BRADEX,"Black, Yellow",7 cm diameter,3.6,Rubber,"33,00",Fitness Gear,Yes
+Elastic resistance band 3 levels,"Set of 3 bands with light, medium, and heavy resistance levels.",PowerFlex,Multicolor,25x5 cm each,0.23,Latex,"18,00",Resistance,Yes
+Gloves,Padded gloves for weightlifting and grip support.,BRADEX,Black,Medium,0.14,Synthetic Leather,"18,00",Clothing,Yes
+Sport bag,Lightweight and spacious bag for carrying gym gear.,ZEZ Sport,Gray,50x25x25 cm,0.7,Nylon,"30,00",Accessories,Yes
